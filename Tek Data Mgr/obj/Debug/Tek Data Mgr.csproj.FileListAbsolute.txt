@@ -1,0 +1,52 @@
+C:\Users\JuJinHo\source\repos\Tek Data Mgr\Tek Data Mgr\bin\Debug\Tek Data Mgr.exe.config
+C:\Users\JuJinHo\source\repos\Tek Data Mgr\Tek Data Mgr\bin\Debug\Tek Data Mgr.exe
+C:\Users\JuJinHo\source\repos\Tek Data Mgr\Tek Data Mgr\bin\Debug\Tek Data Mgr.pdb
+C:\Users\JuJinHo\source\repos\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.csproj.AssemblyReference.cache
+C:\Users\JuJinHo\source\repos\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek_Data_Mgr.Form1.resources
+C:\Users\JuJinHo\source\repos\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek_Data_Mgr.Properties.Resources.resources
+C:\Users\JuJinHo\source\repos\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.csproj.GenerateResource.cache
+C:\Users\JuJinHo\source\repos\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.csproj.CoreCompileInputs.cache
+C:\Users\JuJinHo\source\repos\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.exe
+C:\Users\JuJinHo\source\repos\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.pdb
+C:\Users\jinho\Desktop\Tek Data Mgr\Tek Data Mgr\bin\Debug\Tek Data Mgr.exe.config
+C:\Users\jinho\Desktop\Tek Data Mgr\Tek Data Mgr\bin\Debug\Tek Data Mgr.exe
+C:\Users\jinho\Desktop\Tek Data Mgr\Tek Data Mgr\bin\Debug\Tek Data Mgr.pdb
+C:\Users\jinho\Desktop\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.csproj.AssemblyReference.cache
+C:\Users\jinho\Desktop\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.csproj.SuggestedBindingRedirects.cache
+C:\Users\jinho\Desktop\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek_Data_Mgr.Form1.resources
+C:\Users\jinho\Desktop\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek_Data_Mgr.Properties.Resources.resources
+C:\Users\jinho\Desktop\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.csproj.GenerateResource.cache
+C:\Users\jinho\Desktop\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.csproj.CoreCompileInputs.cache
+C:\Users\jinho\Desktop\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.exe
+C:\Users\jinho\Desktop\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.pdb
+I:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\bin\Debug\Tek Data Mgr.exe.config
+I:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\bin\Debug\Tek Data Mgr.exe
+I:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\bin\Debug\Tek Data Mgr.pdb
+I:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\bin\Debug\Microsoft.WindowsAPICodePack.dll
+I:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+I:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\bin\Debug\Microsoft.WindowsAPICodePack.xml
+I:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+I:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.csproj.AssemblyReference.cache
+I:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.csproj.SuggestedBindingRedirects.cache
+I:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek_Data_Mgr.frmMain.resources
+I:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek_Data_Mgr.Properties.Resources.resources
+I:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.csproj.GenerateResource.cache
+I:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.csproj.CoreCompileInputs.cache
+I:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.csproj.CopyComplete
+I:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.exe
+I:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.pdb
+G:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\bin\Debug\Tek Data Mgr.exe.config
+G:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\bin\Debug\Tek Data Mgr.exe
+G:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\bin\Debug\Tek Data Mgr.pdb
+G:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\bin\Debug\Microsoft.WindowsAPICodePack.dll
+G:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+G:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\bin\Debug\Microsoft.WindowsAPICodePack.xml
+G:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+G:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.csproj.AssemblyReference.cache
+G:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek_Data_Mgr.frmMain.resources
+G:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek_Data_Mgr.Properties.Resources.resources
+G:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.csproj.GenerateResource.cache
+G:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.csproj.CoreCompileInputs.cache
+G:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.csproj.CopyComplete
+G:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.exe
+G:\Tekken_Util\RePlay_Backup\_05Tekken_Total_data\Tek Data Mgr\Tek Data Mgr\obj\Debug\Tek Data Mgr.pdb
