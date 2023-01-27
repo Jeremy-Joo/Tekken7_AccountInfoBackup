@@ -12,6 +12,15 @@ Even that, if you have a favorite replay file, the number of replay files that c
 The program I created makes it easy to manage replay files without stopping during play. 
 The method of use is very easy, so I won't explain it separately. 
 But if you have difficulty using it, please contact me.
+
 Here is my E mail Address
 
 jinho.ju@live.com
+
+and 
+
+find me my YOUTUBE https://www.youtube.com/@jeremio9857
+
+watch and subscribe plz 
+
+thx ! 
